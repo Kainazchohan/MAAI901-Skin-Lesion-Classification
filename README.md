@@ -122,7 +122,11 @@ https://github.com/AliAljawi/skin-lesion-phone-demo
 
 ## Group Members
 
-[Add group members' names and student IDs]
+Kainaz Chohan - 8273273
+Bushra Siddiqui - 8044764
+Meyyappan Venkatesh - 1644750
+Ali Aljawi - 1641487
+Arbab - 
 
 ## Acknowledgements
 
