@@ -1,0 +1,20 @@
+# Core
+torch
+torchvision
+timm
+open_clip_torch
+huggingface_hub
+
+# Data and evaluation
+numpy
+pandas
+scipy
+scikit-learn
+networkx
+opencv-python
+Pillow
+matplotlib
+tqdm
+
+# Used only in Google Colab (for Drive access) - not needed elsewhere
+# google-api-python-client
